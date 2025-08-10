@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a Junior Data Scientist with a focus on statistical learning — including machine learning, deep learning, reinforcement learning — and data visualization. I’m also exploring emerging areas such as data dignity and applying data science in deliberation systems. Alongside my professional work, I enjoy low‑level programming and am currently building an audio application."
+  },
+  {
+    "objectID": "posts/micrograd/index.html",
+    "href": "posts/micrograd/index.html",
+    "title": "Building Micrograd",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Building Micrograd\n\n\n\nneural networks\n\nbackpropagation\n\nwalkthrough\n\n\n\nWalkthrough Andrej Karpathy’s video on ‘building micrograd’\n\n\n\n\n\nAug 11, 2025\n\n\nAfonso Matoso Magalhães\n\n\n\n\n\nNo matching items"
+  }
+]
