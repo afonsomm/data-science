@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+I’m a Junior Data Scientist with a focus on statistical learning — including machine learning, deep learning, reinforcement learning — and data visualization. I’m also exploring emerging areas such as data dignity and applying data science in deliberation systems. Alongside my professional work, I enjoy low‑level programming and am currently building an audio application.
