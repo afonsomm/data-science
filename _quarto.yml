@@ -1,5 +1,7 @@
 project:
   type: website
+  render:
+    - posts/*/index.ipynb
 
 website:
   title: "Afonso Matoso Magalhães"
